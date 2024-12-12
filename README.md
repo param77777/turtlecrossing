@@ -58,3 +58,9 @@ A fun and interactive game built using Python's `turtle` module. The goal is to 
 ## Acknowledgments
 - Inspired by classic arcade-style crossing games.
 - Built with Python's `turtle` module for fun and learning.
+
+---
+
+## Author
+**Tallapalli Parameswara Reddy**
+
